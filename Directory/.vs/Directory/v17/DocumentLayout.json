@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Boyse\\Directory\\",
+  "WorkspaceRootPath": "C:\\Users\\Boyse\\Documents\\GitHub\\Directory\\Directory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1459E4AA-40A4-5CFE-166E-79CA8CF74376}|Assembly-CSharp.csproj|c:\\users\\boyse\\directory\\assets\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1459E4AA-40A4-5CFE-166E-79CA8CF74376}|Assembly-CSharp.csproj|c:\\users\\boyse\\documents\\github\\directory\\directory\\assets\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1459E4AA-40A4-5CFE-166E-79CA8CF74376}|Assembly-CSharp.csproj|solutionrelative:assets\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1459E4AA-40A4-5CFE-166E-79CA8CF74376}|Assembly-CSharp.csproj|C:\\Users\\Boyse\\Directory\\assets\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1459E4AA-40A4-5CFE-166E-79CA8CF74376}|Assembly-CSharp.csproj|C:\\Users\\Boyse\\Documents\\GitHub\\Directory\\Directory\\assets\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1459E4AA-40A4-5CFE-166E-79CA8CF74376}|Assembly-CSharp.csproj|solutionrelative:assets\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "list.cs",
-              "DocumentMoniker": "C:\\Users\\Boyse\\Directory\\Assets\\list.cs",
+              "DocumentMoniker": "C:\\Users\\Boyse\\Documents\\GitHub\\Directory\\Directory\\Assets\\list.cs",
               "RelativeDocumentMoniker": "Assets\\list.cs",
-              "ToolTip": "C:\\Users\\Boyse\\Directory\\Assets\\list.cs",
+              "ToolTip": "C:\\Users\\Boyse\\Documents\\GitHub\\Directory\\Directory\\Assets\\list.cs",
               "RelativeToolTip": "Assets\\list.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Directory.cs",
-              "DocumentMoniker": "C:\\Users\\Boyse\\Directory\\Assets\\Directory.cs",
+              "DocumentMoniker": "C:\\Users\\Boyse\\Documents\\GitHub\\Directory\\Directory\\Assets\\Directory.cs",
               "RelativeDocumentMoniker": "Assets\\Directory.cs",
-              "ToolTip": "C:\\Users\\Boyse\\Directory\\Assets\\Directory.cs",
+              "ToolTip": "C:\\Users\\Boyse\\Documents\\GitHub\\Directory\\Directory\\Assets\\Directory.cs",
               "RelativeToolTip": "Assets\\Directory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAABAAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAA/wG4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T13:12:39.182Z",
               "EditorCaption": ""
